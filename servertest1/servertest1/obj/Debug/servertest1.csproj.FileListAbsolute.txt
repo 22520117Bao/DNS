@@ -1,0 +1,10 @@
+D:\Lap trinh mang\DNS\servertest1\servertest1\bin\Debug\servertest1.exe.config
+D:\Lap trinh mang\DNS\servertest1\servertest1\bin\Debug\servertest1.exe
+D:\Lap trinh mang\DNS\servertest1\servertest1\bin\Debug\servertest1.pdb
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.csproj.AssemblyReference.cache
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.Form1.resources
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.Properties.Resources.resources
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.csproj.GenerateResource.cache
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.exe
+D:\Lap trinh mang\DNS\servertest1\servertest1\obj\Debug\servertest1.pdb
